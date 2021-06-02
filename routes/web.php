@@ -113,7 +113,7 @@ Route::get('/find',function(){
     });
 
     
-
+// hello testing new data 
 
     /////////basic insert data another method
     Route::get('/basicinsert',function(){
