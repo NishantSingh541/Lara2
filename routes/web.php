@@ -112,7 +112,7 @@ Route::get('/find',function(){
 
     });
 
-
+    
 
 
     /////////basic insert data another method
