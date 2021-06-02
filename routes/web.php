@@ -124,7 +124,7 @@ $post->title='Test new way of insertion';
 $post->content='Test new way of insertion';
 $post->users_count='1';
 $post->is_admin='1';
-
+//    sbdbsd 
   
 $post->save();
     });
